@@ -1,6 +1,6 @@
-# FUTURE_FS_02 – Leadlane (Mini CRM)
+# Leadlane (Mini CRM)
 
-A small CRM for managing client leads that arrive from website contact forms. Built for the Future Interns Full Stack Web Development internship, Task 2.
+A small CRM for managing client leads that arrive from website contact forms. 
 
 ## Live Site - https://crm-frontend-rxgj.onrender.com
 
